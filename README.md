@@ -5,7 +5,7 @@
 This repository contains the PyTorch implementation for the Paper ["SPD-CNN: A Plain CNN-Based Model Using the Symmetric Positive Definite Matrices for Cross-Subject EEG Classification with Meta-Transfer-Learning"](http://journal.frontiersin.org/article/10.3389/fnbot.2022.958052/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neurorobotics&id=958052.) 
 
 This repository is mainly modified from the Github repository of "Meta-transfer-learning"(https://github.com/sabinechen/meta-transfer-learning).
-If you have any questions on this repository or the related paper, feel free to create an issue or send me an email.
+If you have any questions on this repository or the related paper, feel free to create an issue or send me an email (871630628@qq.com).
 
 
 #### Summary
@@ -27,6 +27,7 @@ features from different subjects.The main Figure are shown below.
 <p align="center">
     <img src="https://www.frontiersin.org/files/Articles/958052/fnbot-16-958052-HTML-r2/image_m/fnbot-16-958052-g001.jpg" width="800"/>
 </p>
+
 > Figure1: Overall visualization of the SPD-CNN architecture. . 
 
 <p align="center">
@@ -84,3 +85,4 @@ Our implementations use the source code from the following repositories and user
 * [Model-Agnostic Meta-Learning](https://github.com/cbfinn/maml)
 * [Meta-Transfer Learning for Few-Shot Learning](https://github.com/yaoyao-liu/meta-transfer-learning#meta-transfer-learning-for-few-shot-learning)
 * [EEGNet](https://github.com/aliasvishnu/EEGNet)
+* [MOABB](https://github.com/NeuroTechX/moabb.)
