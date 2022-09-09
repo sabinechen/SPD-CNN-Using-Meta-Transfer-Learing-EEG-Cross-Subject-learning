@@ -45,7 +45,7 @@ features from different subjects.The main Figure are shown below.
 A whole visualization and full description of SPD-CNN model can be found in Figure 1.The Workflow of our training framework are shown in Figuer2 and Figuer 3.
 
 ## Getting Started
-In order to run this repository, we advise you to install python 3.5 and PyTorch 0.4.0 with Anaconda.
+In order to run this repository, we advise you to install python 3.7 and PyTorch 1.4.0 with Anaconda.
 You may download Anaconda and read the installation instruction on their official website:
 <https://www.anaconda.com/download/>
 
