@@ -1,6 +1,6 @@
 # PyTorch implementation of "SPD-CNN: A Plain CNN-Based Model Using the Symmetric Positive Definite Matrices for Cross-Subject EEG Classification with Meta-Transfer-Learning"
-[![Python](https://img.shields.io/badge/python-3.6-blue.svg?style=flat-square&logo=python&color=3776AB)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/pytorch-0.4.0-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
+[![Python](https://img.shields.io/badge/python-3.7-blue.svg?style=flat-square&logo=python&color=3776AB)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/pytorch-1.4.0-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
 
 This repository contains the PyTorch implementation for the Paper ["SPD-CNN: A Plain CNN-Based Model Using the Symmetric Positive Definite Matrices for Cross-Subject EEG Classification with Meta-Transfer-Learning"](http://journal.frontiersin.org/article/10.3389/fnbot.2022.958052/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neurorobotics&id=958052.) 
 
@@ -51,9 +51,9 @@ You may download Anaconda and read the installation instruction on their officia
 
 Create a new environment and install PyTorch and on it:
 ```bash
-conda create --name mtl-pytorch python=3.5
+conda create --name mtl-pytorch python=3.7
 conda activate mtl-pytorch
-conda install pytorch=0.4.0 
+conda install pytorch=1.4.0 
 ```
 Install other requirements(for generating the dataset and processing the data):smile::smile::
 ```bash
