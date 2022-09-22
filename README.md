@@ -5,7 +5,7 @@
 This repository contains the PyTorch implementation for the Paper ["SPD-CNN: A Plain CNN-Based Model Using the Symmetric Positive Definite Matrices for Cross-Subject EEG Classification with Meta-Transfer-Learning"](http://journal.frontiersin.org/article/10.3389/fnbot.2022.958052/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neurorobotics&id=958052.) 
 
 This repository is mainly modified from the Github repository of "Meta-transfer-learning"(https://github.com/sabinechen/meta-transfer-learning).
-If you have any questions on this repository or the related paper, feel free to create an issue or send me an email (Chenlezih@formail.com).
+If you have any questions on this repository or the related paper, feel free to create an issue or send me an email (Chenlezhi@foxmail.com).
 
 
 #### Summary
